@@ -9,7 +9,7 @@ This repository contains different case studies and extra projects I built while
 
 ### Chuck Norris Joke Machine
 * I wanted to explore different API's so I built a site using the ICNDB (Chuck Norris DataBase) to access random Chuck Norris Jokes.
-* Built with AJAX, jQuery, JavaScript, HTML/CSS3 and the ICNDB API.
+* Coded with AJAX, jQuery, JavaScript, HTML/CSS3 and the ICNDB API.
 * Live site is here: http://ryan-fitch.com/chucknorris/
 
 ### Portland API's 
